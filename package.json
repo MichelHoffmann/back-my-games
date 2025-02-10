@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@prisma/client": "^6.3.1",
     "express": "^4.21.2",
     "nodemon": "^3.1.9"
   },
@@ -14,5 +15,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^6.3.1"
+  }
 }
