@@ -20,4 +20,4 @@ app.listen(3000, () => {
 ///password
 /// ms051Tk6zq5G2MpJ
 
-///    mongodb+srv://michoffjr:ms051Tk6zq5G2MpJ@back-my-games.kc0e8.mongodb.net/?retryWrites=true&w=majority&appName=back-my-games
+///    mongodb+srv://michoffjr:ms051Tk6zq5G2MpJ@back-my-games.kc0e8.mongodb.net/michoffjr?retryWrites=true&w=majority&appName=back-my-games
