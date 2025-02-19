@@ -21,3 +21,6 @@ app.listen(3000, () => {
 /// ms051Tk6zq5G2MpJ
 
 ///    mongodb+srv://michoffjr:ms051Tk6zq5G2MpJ@back-my-games.kc0e8.mongodb.net/michoffjr?retryWrites=true&w=majority&appName=back-my-games
+
+///JWR Secret Key
+///   6318b4b454aae41f35e4c4cbcde4118fb4cb48c895e10f0cc01775fff8228a2d
